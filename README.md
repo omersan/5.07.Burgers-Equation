@@ -2,8 +2,11 @@
 Shock capturing schemes for Inviscid Burgers Equations (i.e., upwind and WENO schemes)
 
 >>> Lax-Wendroff scheme
+
 >>> McCormack scheme
+
 >>> Secondd-order upwind scheme
+
 >>> Third-order WENO scheme
 
 
