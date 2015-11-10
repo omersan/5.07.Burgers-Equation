@@ -5,9 +5,9 @@ Shock capturing schemes for Inviscid Burgers Equations (i.e., upwind and WENO sc
 
 >>> McCormack scheme
 
->>> Secondd-order upwind scheme
+>>> Second-order upwind scheme
 
->>> Third-order WENO scheme
+>>> Third-order WENO scheme (third-order in smooth field)
 
 
 ![lw](https://cloud.githubusercontent.com/assets/15114859/11079217/7090bab4-87d0-11e5-9799-c8e25e101040.png)
